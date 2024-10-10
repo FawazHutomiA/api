@@ -1,49 +1,84 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Classic Watch",
-        "price": 199.99,
-        "image": "https://example.com/images/classic-watch.jpg",
-        "description": "A timeless classic, perfect for any occasion.",
-        "variants": [
-          { "color": "black", "size": "M" },
-          { "color": "silver", "size": "L" }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Smartphone X",
-        "price": 999.99,
-        "image": "https://example.com/images/smartphone-x.jpg",
-        "description": "The latest Smartphone X with groundbreaking technology.",
-        "variants": [
-          { "color": "white", "storage": "64GB" },
-          { "color": "black", "storage": "128GB" }
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Running Shoes",
-        "price": 79.99,
-        "image": "https://example.com/images/running-shoes.jpg",
-        "description": "Comfortable running shoes for daily activities and sports.",
-        "variants": [
-          { "color": "red", "size": "42" },
-          { "color": "blue", "size": "44" }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Wireless Headphones",
-        "price": 149.99,
-        "image": "https://example.com/images/wireless-headphones.jpg",
-        "description": "High-quality sound with noise-cancellation features.",
-        "variants": [
-          { "color": "white", "battery": "10 hours" },
-          { "color": "black", "battery": "15 hours" }
-        ]
-      }
-    ]
-  }
-  
+  "products": [
+    {
+      "id": 1,
+      "name": "TAG HEUER CARRERA CHRONOGRAPH",
+      "price": 120000000,
+      "description": "A timeless classic, perfect for any occasion.",
+      "products": [
+        {
+          "image": "https://www.tagheuer.com/on/demandware.static/-/Library-Sites-TagHeuer-Shared/default/dw4532ab25/images/sprites/Carrera/CBS2216.BA0041/RTW_backUp.jpg",
+          "color": "silver"
+        },
+        {
+          "image": "https://www.tagheuer.com/on/demandware.static/-/Library-Sites-TagHeuer-Shared/default/dw730e32fc/images/sprites/Carrera/CBS2210.FC6534/RTW_backUp.jpg",
+          "color": "black"
+        },
+        {
+          "image": "https://www.tagheuer.com/on/demandware.static/-/Library-Sites-TagHeuer-Shared/default/dw1ddab999/images/sprites/Carrera/CBS2211.FC6545/RTW_backUp.jpg",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Iphone 15",
+      "price": 13999999,
+      "description": "The latest Smartphone X with groundbreaking technology.",
+      "products": [
+        {
+          "image": "https://cdnpro.eraspace.com/media/catalog/product/a/p/apple_iphone_15_blue_1.jpg",
+          "color": "blue"
+        },
+        {
+          "image": "https://cdnpro.eraspace.com/media/catalog/product/a/p/apple_iphone_15_pink_1_3.jpg",
+          "color": "pink"
+        },
+        {
+          "image": "https://cdnpro.eraspace.com/media/catalog/product/a/p/apple_iphone_15_yellow_1_3.jpg",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nike Air Max Plus",
+      "price": 2500000,
+      "description": "Comfortable running shoes for daily activities and sports.",
+      "products": [
+        {
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/erzfadfpnzgkxt0gn2ya/AIR+MAX+PLUS.png",
+          "color": "black"
+        },
+        {
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/lx0owmisj943sr59emb8/AIR+MAX+PLUS.png",
+          "color": "white"
+        },
+        {
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/235459ed-d4a5-4013-882d-3e82e3226aff/AIR+MAX+PLUS.png",
+          "color": "blue white"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bose QuietComfort Ultra Headphones",
+      "price": 1200000,
+      "description": "High-quality sound with noise-cancellation features.",
+      "products": [
+        {
+          "image": "https://assets.bosecreative.com/transform/f9cfec0d-023c-4624-83ae-4807d4ec2cca/QCUH_LunarBlue_Wired_400x300_x2?io=width:816,height:667,transform:fit&io=width:816,height:667,transform:fit",
+          "color": "lunar blue"
+        },
+        {
+          "image": "https://assets.bosecreative.com/transform/5b6e91bd-cb19-4dc3-9a95-e8cdb3950e6d/QCUH_SF_PDP_Gallery_White_x2-png?quality=100&io=width:816,height:667,transform:fit&io=width:816,height:667,transform:fit",
+          "color": "white smoke"
+        },
+        {
+          "image": "https://assets.bosecreative.com/transform/0030bb24-fa1a-4b4f-acd2-966244b3181b/QCUHLE24_PDP_GALLERY_SF_Sandstone_01_2400x1800?quality=90&io=width:816,height:667,transform:fit&io=width:816,height:667,transform:fit",
+          "color": "sandstone"
+        }
+      ]
+    }
+  ]
+}
