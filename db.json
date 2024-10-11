@@ -21,7 +21,8 @@
           "image": "https://www.tagheuer.com/on/demandware.static/-/Library-Sites-TagHeuer-Shared/default/dw1ddab999/images/sprites/Carrera/CBS2211.FC6545/RTW_backUp.jpg",
           "color": "green"
         }
-      ]
+      ],
+      "tags": ["luxury", "watch", "classic", "elegant", "timeless", "accessory", "silver", "water-resistant"]
     },
     {
       "id": 2,
@@ -44,7 +45,8 @@
           "image": "https://cdnpro.eraspace.com/media/catalog/product/a/p/apple_iphone_15_yellow_1_3.jpg",
           "color": "yellow"
         }
-      ]
+      ],
+      "tags": ["iphone", "smartphone", "apple", "technology", "camera", "innovation", "super retina", "performance"]
     },
     {
       "id": 3,
@@ -67,7 +69,8 @@
           "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/235459ed-d4a5-4013-882d-3e82e3226aff/AIR+MAX+PLUS.png",
           "color": "blue"
         }
-      ]
+      ],
+      "tags": ["nike", "shoes", "sports", "air max", "comfort", "style", "modern", "active"]
     },
     {
       "id": 4,
@@ -90,7 +93,8 @@
           "image": "https://assets.bosecreative.com/transform/0030bb24-fa1a-4b4f-acd2-966244b3181b/QCUHLE24_PDP_GALLERY_SF_Sandstone_01_2400x1800?quality=90&io=width:816,height:667,transform:fit&io=width:816,height:667,transform:fit",
           "color": "pink"
         }
-      ]
+      ],
+      "tags": ["bose", "headphones", "noise cancelling", "music", "sound", "comfort", "wireless", "ergonomic"]
     }
   ]
 }
