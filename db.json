@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Classic Watch",
       "price": 120000000,
-      "description": "A timeless classic, perfect for any occasion.",
+      "description": "Jam tangan klasik ini memancarkan keanggunan yang tak lekang oleh waktu, menjadikannya aksesori yang sempurna untuk segala kesempatan. Terbuat dari bahan berkualitas tinggi dengan desain elegan, jam tangan ini bukan hanya alat untuk melihat waktu, tetapi juga simbol status dan gaya hidup. Dengan warna dan varian yang beragam, Anda dapat memilih jam tangan yang sesuai dengan kepribadian dan selera Anda. Dilengkapi dengan teknologi presisi dan fitur tahan air, jam tangan ini siap menemani Anda dalam berbagai aktivitas harian.",
       "products": [
         {
           "id": 1,
@@ -27,7 +27,7 @@
       "id": 2,
       "name": "Iphone 15",
       "price": 13999999,
-      "description": "The latest Smartphone X with groundbreaking technology.",
+      "description": "iPhone 15 terbaru membawa Anda ke era teknologi yang lebih canggih dengan berbagai fitur inovatif. Ditenagai oleh chip terbaru, perangkat ini menawarkan kinerja yang lebih cepat dan efisien. Layar Super Retina memberikan tampilan visual yang tajam dan detail, sementara sistem kamera yang diperbarui memungkinkan Anda mengambil foto dan video berkualitas profesional. Dengan desain yang ramping dan pilihan warna menarik, iPhone 15 adalah pilihan yang tepat bagi mereka yang mencari smartphone dengan performa dan estetika terbaik.",
       "products": [
         {
           "id": 1,
@@ -50,7 +50,7 @@
       "id": 3,
       "name": "Nike Air Max Plus",
       "price": 2500000,
-      "description": "Comfortable running shoes for daily activities and sports.",
+      "description": "Nike Air Max Plus dirancang untuk kenyamanan dan gaya. Sepatu ini tidak hanya ideal untuk kegiatan sehari-hari tetapi juga cocok untuk aktivitas olahraga intensitas tinggi. Sol yang empuk dan teknologi Air Max memastikan setiap langkah terasa ringan dan nyaman, sementara desain dinamisnya memberikan tampilan yang modern dan keren. Tersedia dalam berbagai warna yang memikat, Nike Air Max Plus adalah sepatu yang sempurna untuk Anda yang aktif dan bergaya.",
       "products": [
         {
           "id": 1,
@@ -73,7 +73,7 @@
       "id": 4,
       "name": "Bose QuietComfort",
       "price": 1200000,
-      "description": "High-quality sound with noise-cancellation features.",
+      "description": "Nikmati suara berkualitas tinggi dengan Bose QuietComfort, headphone yang dilengkapi dengan teknologi peredam bising terbaik di kelasnya. Apakah Anda sedang dalam perjalanan atau bekerja di lingkungan yang bising, headphone ini mampu memblokir suara latar belakang dan memberikan pengalaman mendengarkan yang mendalam. Dengan desain ergonomis dan bahan yang nyaman di telinga, Bose QuietComfort cocok digunakan dalam jangka waktu lama tanpa menimbulkan rasa tidak nyaman. Konektivitas nirkabel yang stabil dan masa pakai baterai yang lama menjadikannya pilihan sempurna untuk para pencinta musik.",
       "products": [
         {
           "id": 1,
